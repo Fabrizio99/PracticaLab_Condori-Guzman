@@ -1,4 +1,4 @@
-
+#AUTOR: De la Cruz Quispe Royer Alvaro
 
 def esPrimo(num):
     if num < 1:
